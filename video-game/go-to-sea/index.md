@@ -24,6 +24,7 @@ Installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/video-game/go-to-sea/banwei3.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
 Installation view at Reflexion Gallery, 798 Art District, Beijing. April, 2026</p>
 <p>Exhibition Poster for Game Om, TANK in Shanghai, China</p>
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/game-om-credits-english.png' | relative_url }}" alt="English-language credits for Game Om: A Social Game at TANK Shanghai"></p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_tam_01.webp' | relative_url }}" alt="installation view at Today Art Museum, Beijing">
 Installation view at Today Art Museum, Beijing. July, 2023</p>
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/gotosea_3.webp' | relative_url }}" alt="bathhouse interior 3d version">Game Chapter Screen Capture</p>
