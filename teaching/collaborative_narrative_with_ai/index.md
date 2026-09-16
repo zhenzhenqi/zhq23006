@@ -5,7 +5,7 @@ permalink: /teaching/collaborative_narrative_with_ai/
 ---
 
 <style>
-.two-panel-row #center #content { max-width: none; }
+.two-panel-row #center { padding-top: 6.25rem; }
 </style>
 
 Spring 2027: Jan 19–Apr 30, 2027
