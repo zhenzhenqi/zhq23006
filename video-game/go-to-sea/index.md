@@ -6,15 +6,15 @@ permalink: /video-game/go-to-sea/
 
 
 <h3>Exhibition History</h3>
-04-05/2026: Zone of Nowhere, Reflexion Gallery, 798 Art District, Beijing, China
+04-05/2026: [Zone of Nowhere](https://www.reflexiongallery.com/page-news_events/), Reflexion Gallery, 798 Art District, Beijing, China
 
-11/2025–03/2026: *Game Om*, TANK, Shanghai, China
+11/2025–03/2026: [*Game Om*](https://www.trueart.com/news/738486.html), [TANK](https://tankshanghai.com/), Shanghai, China
 
-07/2024: Electronic Literature Organization (ELO) Virtual Conference and Media Festival
+07/2024: [Electronic Literature Organization (ELO) Virtual Conference and Media Festival](https://stars.library.ucf.edu/elo2024/)
 
-09-11/2024: ENNOVA Art Museum, Langfang, China
+09-11/2024: [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China
 
-07/2023: Today Museum of Art, Beijing, China
+07/2023: [Today Art Museum](https://www.todayartmuseum.com/), Beijing, China
 
 <hr>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/video-game/go-to-sea/banwei2.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
