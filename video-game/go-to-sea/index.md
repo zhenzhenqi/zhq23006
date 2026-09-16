@@ -12,9 +12,9 @@ permalink: /video-game/go-to-sea/
 
 07/2024 — *Go To Sea*, “[Electronic Literature Organization (ELO) Virtual Conference and Media Festival](https://stars.library.ucf.edu/elo2024/).”
 
-09–11/2024 — *Go To Sea*, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
+09–11/2024 — *Go To Sea*, 9-5 Theater, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
 
-07/2023 — *Go To Sea*, [Today Art Museum](https://www.todayartmuseum.com/), Beijing, China.
+07/2023 — *Go To Sea*, To Your Eternity, [Today Art Museum](https://www.todayartmuseum.com/), Beijing, China.
 
 <hr>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/video-game/go-to-sea/banwei2.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
