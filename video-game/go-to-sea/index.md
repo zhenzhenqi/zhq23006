@@ -6,13 +6,13 @@ permalink: /video-game/go-to-sea/
 
 
 <h3>Exhibition History</h3>
-04–05/2026 — *Go To Sea*, “[Zone of Nowhere](https://www.reflexiongallery.com/page-news_events/),” Reflexion Gallery, 798 Art District, Beijing, China.
+04–05/2026 — *Go To Sea*, [Zone of Nowhere](https://www.reflexiongallery.com/page-news_events/), Reflexion Gallery, 798 Art District, Beijing, China.
 
 <p><img src="{{ '/assets/imported/video-game/go-to-sea/zone-of-nowhere-exhibition-poster.png' | relative_url }}" alt="Zone of Nowhere exhibition poster at Reflexion Gallery" style="width: 66.6667%; height: auto;"></p>
 
-11/2025–03/2026 — *Go To Sea*, “[Game Om](https://www.trueart.com/news/738486.html),” [TANK Shanghai](https://tankshanghai.com/), Shanghai, China.
+11/2025–03/2026 — *Go To Sea*, [Game Om](https://www.trueart.com/news/738486.html), [TANK Shanghai](https://tankshanghai.com/), Shanghai, China.
 
-07/2024 — *Go To Sea*, “[Electronic Literature Organization (ELO) Virtual Conference and Media Festival](https://stars.library.ucf.edu/elo2024/).”
+07/2024 — *Go To Sea*, [Electronic Literature Organization (ELO) Virtual Conference and Media Festival](https://stars.library.ucf.edu/elo2024/).
 
 09–11/2024 — *Go To Sea*, Nine-To-Five Theater, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
 
