@@ -12,8 +12,6 @@ permalink: /video-game/go-to-sea/
 
 11/2025–03/2026 — *Go To Sea*, “[Game Om](https://www.trueart.com/news/738486.html),” [TANK Shanghai](https://tankshanghai.com/), Shanghai, China.
 
-<p><img src="{{ '/assets/imported/video-game/go-to-sea/game-om-exhibition-flyer-english.png' | relative_url }}" alt="English-language exhibition flyer for Game Om: A Social Game at TANK Shanghai" style="width: 66.666%; height: auto;"></p>
-
 07/2024 — *Go To Sea*, “[Electronic Literature Organization (ELO) Virtual Conference and Media Festival](https://stars.library.ucf.edu/elo2024/).”
 
 09–11/2024 — *Go To Sea*, Nine-To-Five Theater, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
