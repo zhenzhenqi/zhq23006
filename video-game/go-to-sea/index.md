@@ -14,7 +14,7 @@ permalink: /video-game/go-to-sea/
 
 09–11/2024 — *Go To Sea*, 9-5 Theater, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
 
-07/2023 — *Go To Sea*, To Your Eternity, [Today Art Museum](https://www.todayartmuseum.com/), Beijing, China.
+07/2023 — *Go To Sea*, [the 4th Future of Today Biennial](http://www.todayartmuseum.com/enexhdetails.aspx?id=823), [Today Art Museum](https://www.todayartmuseum.com/), Beijing, China.
 
 <hr>
 <p><img src="https://raw.githubusercontent.com/zhenzhenqi/zhq23006/main/assets/imported/video-game/go-to-sea/banwei2.webp" alt="installation view at Reflexion Gallery, 798 Art District, Beijing">
