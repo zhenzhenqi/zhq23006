@@ -12,7 +12,9 @@ permalink: /video-game/go-to-sea/
 
 07/2024 — *Go To Sea*, “[Electronic Literature Organization (ELO) Virtual Conference and Media Festival](https://stars.library.ucf.edu/elo2024/).”
 
-09–11/2024 — *Go To Sea*, 9-5 Theater, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
+09–11/2024 — *Go To Sea*, Nine-To-Five Theater, [ENNOVA Art Museum](https://ennovaartmuseum.com.cn/en), Langfang, China.
+
+<p><img src="{{ '/assets/imported/video-game/go-to-sea/nine-to-five-theater-official-poster.jpeg' | relative_url }}" alt="Official poster for Nine-To-Five Theater at ENNOVA Art Museum" style="width: 66.666%; height: auto;"></p>
 
 07/2023 — *Go To Sea*, [the 4th Future of Today Biennial](http://www.todayartmuseum.com/enexhdetails.aspx?id=823), [Today Art Museum](https://www.todayartmuseum.com/), Beijing, China.
 
