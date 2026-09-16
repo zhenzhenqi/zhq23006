@@ -4,6 +4,10 @@ title: "Collaborative Narrative with AI"
 permalink: /teaching/collaborative_narrative_with_ai/
 ---
 
+<style>
+.two-panel-row #center #content { max-width: none; }
+</style>
+
 Spring 2027: Jan 19–Apr 30, 2027
 
 Fall 2025: Aug 25–Dec 5, 2025
