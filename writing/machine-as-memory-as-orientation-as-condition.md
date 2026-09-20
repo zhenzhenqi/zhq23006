@@ -14,7 +14,7 @@ permalink: /writing/machine-as-memory-as-orientation-as-condition/
 <p>Subjects: Art › General</p>
 <p>Summary: Examines computational architecture not merely as a tool or storage mechanism, but as an active infrastructure that conditions collective memory, spatial/social orientation, and human agency.</p>
 
-Residency Context: Developed in conjunction with the Counterstructural Commons Residency, jointly organized by [Rhizome and Mozilla Foundation](https://rhizome.org/editorial/2026/mar/10/announcing-the-counterstructural-commons-residents/) in Spring 2026. 
+Residency Context: Developed in conjunction with the [Counterstructural Commons Residency](https://rhizome.org/editorial/2026/mar/10/announcing-the-counterstructural-commons-residents/), jointly organized by Rhizome and Mozilla Foundation in Spring 2026.
 <img src="{{ '/assets/imported/writing/machine-as-memory-as-orientation-as-condition/rhizomeResidency.jpg' | relative_url }}" alt="">
 
 Connected Output: Presented as artist talk, "The Unglued Library", at the New Museum, NY on May 16, 2026, alongside 7 other artists from the residency who are engaging AI and contemporary technology. [PRESS RELEASE](https://www.mozillafoundation.org/en/meet-mozilla/press-center/mozilla-counterstructural-commons-rhizome/) from Mozilla Foundation.
