@@ -13,6 +13,7 @@ permalink: /writing/machine-as-memory-as-orientation-as-condition/
 <p>ISBN: 9798996077601</p>
 <p>Subjects: Art › General</p>
 <p>Summary: Examines computational architecture not merely as a tool or storage mechanism, but as an active infrastructure that conditions collective memory, spatial/social orientation, and human agency.</p>
+
 Residency Context: Developed in conjunction with the Counterstructural Commons Residency, jointly organized by [Rhizome and Mozilla Foundation](https://rhizome.org/editorial/2026/mar/10/announcing-the-counterstructural-commons-residents/) in Spring 2026. 
 <img src="{{ '/assets/imported/writing/machine-as-memory-as-orientation-as-condition/rhizomeResidency.jpg' | relative_url }}" alt=""></p>
 
