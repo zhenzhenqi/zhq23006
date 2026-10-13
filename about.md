@@ -18,7 +18,7 @@ University of Connecticut | [zhenzhen.qi@uconn.edu](mailto:zhenzhen.qi@uconn.edu
 
 Zhenzhen Qi is an educator, researcher, artist, and technologist whose work examines experimental videogames as a mode of Collective Artificial Intelligence (CAI). Her research and creative practice investigate the cultural, political, and educational effects of computation through software, interactive media, installation, and critical writing. 
 
-Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. Her computational art has been presented by leading cultural curatorial institutions including Ars Electronica, Rhizome at the New Museum, and Power Station of Art. She also co-founded the [Pluralistic AI Lab](https://pluralistic-ai.github.io/lab/), which focuses on reimagining AI interfaces and architectures to move beyond "monolithic" single-person chatbots.
+Qi co-founded [zzyw](https://www.zzyw.org/), an artist and research collective. Her computational art has been presented by leading cultural curatorial institutions including Ars Electronica, Rhizome at the New Museum, and Power Station of Art. She also co-founded the [Pluralistic AI Lab](https://pluralistic-ai-lab.github.io/), which focuses on reimagining AI interfaces and architectures to move beyond "monolithic" single-person chatbots.
 
 
 ### Publications & Writing
