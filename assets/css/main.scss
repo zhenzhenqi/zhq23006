@@ -77,9 +77,10 @@ ul, ol { margin: 0; }
 .slide-embed iframe { display:block; width:100%; height:100%; border:0; }
 #right { flex:2 1 100px; }
 
-/* Two-panel pages keep the project list on the left and content on the right. */
-.two-panel-row #left { flex:0 0 50%; box-sizing:border-box; }
-.two-panel-row #center { flex:1 1 50%; box-sizing:border-box; border-right:0; }
+/* Two-panel pages keep a compact project index on the left and content on the right. */
+.two-panel-row #left { flex:0 0 25%; box-sizing:border-box; }
+.two-panel-row #left .project-list { column-count:1; }
+.two-panel-row #center { flex:0 0 75%; box-sizing:border-box; border-right:0; }
 .two-panel-row #right { display:none; }
 
 #pages { position:fixed; top:0; margin:3.5rem 1rem 1rem; border:1px solid #000; background-color:#F7E6E2; z-index:100; }
@@ -93,6 +94,7 @@ ul, ol { margin: 0; }
 @media screen and (max-width:799px) {
   #left { display:none; }
   #center { border-right:0; padding-top:8.25rem; }
+  .two-panel-row #center { flex:0 0 100%; }
   .mobile-only { display:block; }
   #pages { z-index:1000; right:10px; top:1rem; }
   .home-pages { display:block; }
