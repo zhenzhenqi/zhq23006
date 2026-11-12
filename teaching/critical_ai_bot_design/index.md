@@ -1,7 +1,7 @@
 ---
 layout: main
-title: "Collaborative Narrative with AI"
-permalink: /teaching/collaborative_narrative_with_ai/
+title: "Critical AI Bot Design"
+permalink: /teaching/critical_ai_bot_design/
 ---
 
 <style>
